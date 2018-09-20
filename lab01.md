@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 ---
 layout: default
-title: 我的博客哦吼吼
+title: 请将标题写在这里
 ---
 
 # 我的博客标题
@@ -16,7 +15,4 @@ title: 我的博客哦吼吼
 
 这个文档将发布在 https://your-account.github.io/homework 中！
 
-我已学会使用GitHub提交作业！
-=======
-
->>>>>>> 5f4c2ae0fad4cc9bea73cdec877e127fa4d3e61b
+**我已学会使用GitHub提交作业**
