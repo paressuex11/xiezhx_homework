@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 请将标题写在这里
+title: 我的博客哦吼吼吼
 ---
 
 # 我的博客标题
