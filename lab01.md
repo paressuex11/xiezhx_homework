@@ -17,4 +17,4 @@ title: 我的博客哦吼吼
 
 **我已学会使用GitHub提交作业**
 
-@import xdd.jpg
+![](wKgBy1Q2yJ2AEYgHAAUbcM1ur9s447[1].jpg)
