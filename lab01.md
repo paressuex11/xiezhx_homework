@@ -16,3 +16,5 @@ title: 我的博客哦吼吼
 这个文档将发布在 https://your-account.github.io/homework 中！
 
 **我已学会使用GitHub提交作业**
+
+@import xdd.jpg
