@@ -21,7 +21,7 @@
 
 2. 充值credits
 
-vultr使用租借制，按小时收费.比较人性化的是，vultr支持支付宝（Alipay）以及微信支付（WeChatPay）,可以说很接地气了。
+vultr使用租借制，按小时收费。比较人性化的是，vultr支持支付宝（Alipay）以及微信支付（WeChatPay）,可以说很接地气了。
 ![](/images/cz.png)
 
 ### 租借服务器
