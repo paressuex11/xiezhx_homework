@@ -15,10 +15,13 @@ vultr使用租借制，按小时收费.比较人性化的是，vultr支持支付
 ![](/images/cz.png)
 ###租借服务器
 1. **deploy one**
+
 ![](/images/jfwq1.png)
 2. **choose your plan**
+
 ![](/images/jfwq2.png)
 3. 使用ssh登录服务器
+
 Windows端推荐使用![putty](https://www.putty.org/)
 4. 使用ss一键脚本（**爱折腾的朋友可以自己写脚本**）
 
