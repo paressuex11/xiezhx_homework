@@ -62,4 +62,6 @@ Windows端推荐使用![putty](https://www.putty.org/)
 
 3. 体验科学上网的乐趣！
 
-# 感谢阅读！ 
+# 感谢阅读！
+
+![](xiezhx_homework/images/cz.PNG )
