@@ -8,6 +8,7 @@ layout: default
 
 # 如何通过shadowsocks实现科学上网
 相比于VPN，ss有更高的稳定性和安全度，并且相对于某些知名VPN，搭建ss所需的成本也更低。
+
 *********************
 
 ## VPS
@@ -28,7 +29,7 @@ layout: default
 
 2. 充值credits
 
-vultr使用租借制，按小时收费.比较人性化的是，vultr支持支付宝（Alipay）以及微信支付（WeChatPay）,可以说很接地气了。
+vultr使用租借制，按小时收费。比较人性化的是，vultr支持支付宝（Alipay）以及微信支付（WeChatPay）,可以说很接地气了。
 ![](/images/cz.png)
 
 ### 租借服务器
@@ -69,4 +70,6 @@ Windows端推荐使用![putty](https://www.putty.org/)
 
 3. 体验科学上网的乐趣！
 
-# 感谢阅读！ 
+# 感谢阅读！
+
+![](xiezhx_homework/images/cz.PNG )
