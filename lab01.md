@@ -1,3 +1,11 @@
+---
+
+title: HandsomeXie's blog
+layout: default
+
+---
+
+
 # 如何通过shadowsocks实现科学上网
 相比于VPN，ss有更高的稳定性和安全度，并且相对于某些知名VPN，搭建ss所需的成本也更低。
 *********************
