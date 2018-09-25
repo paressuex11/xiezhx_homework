@@ -25,7 +25,7 @@ layout: default
 
 ![**注册链接戳这里**](https://www.vultr.com/?ref=7235190)。进去以后应该如下：
 
-![](注册.png)
+![](注册01.png)
 
 2. 充值credits
 
