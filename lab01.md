@@ -75,6 +75,6 @@ Windows端推荐使用![putty](https://www.putty.org/)
 
 # 感谢阅读！
 
-![](cz.PNG)
 
-![](markdown2.jpg)
+
+
