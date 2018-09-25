@@ -58,8 +58,9 @@ Windows端推荐使用![putty](https://www.putty.org/)
 
 ## 客户端（Android）
 
-1. 下载ss客户端![shadowsocks]
-(https://github.com/shadowsocks/shadowsocks-windows)
+1. 下载ss客户端 
+
+![shadowsocks](https://github.com/shadowsocks/shadowsocks-windows)
 
 ![](/images/ss.png)  
 
