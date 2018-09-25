@@ -19,29 +19,29 @@ layout: default
 
 目前国外的vps商主要有digitalocean，vultr，aws等，想了解便宜好用的VPS请戳![这里](http://www.vpsdx.com/?ugfcba=uv70e3)，本文使用**vul**举个栗子。
 
-![](/vultr.png)
+![](vultr.png)
 
 1. 注册
 
 ![**注册链接戳这里**](https://www.vultr.com/?ref=7235190)。进去以后应该如下：
 
-![](/注册.png)
+![](注册.png)
 
 2. 充值credits
 
 vultr使用租借制，按小时收费。比较人性化的是，vultr支持支付宝（Alipay）以及微信支付（WeChatPay）
 
-![](/cz.png)
+![](cz.png)
 
 ### 租借服务器
 1. **deploy one**
 
-![](/jfwq1.png)
+![](jfwq1.png)
 
 2. **choose your plan**
 
 
-![](/jfwq2.png)
+![](jfwq2.png)
 
 3. 使用ssh登录服务器
 
@@ -66,15 +66,15 @@ Windows端推荐使用![putty](https://www.putty.org/)
 
 2. 配置服务器
 
-![](/jfwq01.png)
+![](jfwq01.png)
 
-![](/jfwq00.png)
+![](jfwq00.png)
 
 
 3. 体验科学上网的乐趣！
 
 # 感谢阅读！
 
-![](/cz.PNG )
+![](cz.PNG)
 
 ![](markdown2.jpg)
