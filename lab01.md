@@ -64,6 +64,8 @@ Windows端推荐使用![putty](https://www.putty.org/)
 
 ![shadowsocks](https://github.com/shadowsocks/shadowsocks/ss.png)  
 
+2. 配置服务器
+
 ![](/jfwq01.png)
 
 ![](/jfwq00.png)
