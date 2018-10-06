@@ -13,7 +13,7 @@ Ghost Shooter是一款作为official Beginner's Guide的简单游戏，本文希
 
 实现效果大致如下：
 
-
+![](/images/giff.gif)
 
 ###图层(layers)
 
