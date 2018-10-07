@@ -15,6 +15,8 @@ Ghost Shooter是一款作为official Beginner's Guide的简单游戏，本文希
 
 ![](/images/giff.gif)
 
+![](/images/7.png)
+
 ## 图层(layers)
 
 construct 2里把游戏结构划分成很多层(layers)，设计者可以在这些图层中放置对象，层与层之间难以互相干扰，利用这个特性，我们很容易想到把互不干扰的对象放在不同的层。例如：背景对象不会干扰其他对象，UHD对象同理，于是我们把这两个对象分别放在不同layers。
