@@ -72,4 +72,12 @@ explode的存在意义仿佛就是消失。在Bullet与monster碰撞后生成的
 
 ## event
 
-**event** 系统，遵循条件-行为操作
+**event** 系统，遵循condition-action操作，达成condition就会触发action。
+
+例如：让player总是看着鼠标
+
+![](/images/6.png)
+
+这种涉及多对象的操作便可以通过 **event** 系统来达成。
+
+还有像在 **bullet碰撞monster时生成explode** *点击鼠标左键在player上生成bullet* ，乃至还可以为monster和player加上属性(attributes)，比如健康值，让游戏更加丰富多彩
