@@ -21,8 +21,34 @@ construct 2里把游戏结构划分成很多层(layers)，设计者可以在这�
 
 ![](/images/1.png)
 
-我们将游戏的主要部分放在**main**层里。
+我们将游戏的主要部分放在 **main** 层里，其他层方便起见先暂时lock。
 
 ### sprite(精灵)
 
-construct 2 把那些参与游戏的自建对象叫做sprite，
+*construct 2* 把那些参与游戏的自建对象叫做sprite，我们主要将player,monster,bullet,explode对象放在 **main** 这一层里。这里也是最富有个性化的版块了，操作者可以用任意他们喜欢的图片来作为游戏对象(前提是合法)。
+
+![插入Player对象](/images/2.png)
+
+#### player
+
+笔者这里采用的是时下较为热门的元气骑士形象。
+
+![](/images/Knight.png)
+
+player的主要行为是能向四面八方行走，视线总是跟着鼠标，发射子弹，这里有些行为不能仅通过behavior来解决，但我们最直观的的设计逻辑就是如此。
+
+四面八方行走可以通过behavior来实现
+
+![](/images/3.png)
+
+实现效果如下：
+
+![](/images/gifff.gif)
+
+但与其他对象的互动就需要通过 **event** 来操作了。
+
+#### monster
+
+monster对象的行为主要是朝着player行走，这里同样涉及对象间的互动需要通过 **event** 系统来解决。但我们可以退而求其次，先设定一个直线行走。
+
+![](/images/)
