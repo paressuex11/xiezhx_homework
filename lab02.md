@@ -72,6 +72,16 @@ explode的存在意义仿佛就是消失。在Bullet与monster碰撞后生成的
 
 ![](/images/5.png)
 
+
+#### UHD
+
+UHD就像是任务栏，也可以是状态栏，UHD可以让信息变得直观,可以在这里记录已击中的怪兽数。
+
+![](/images/8.png)
+
+
+
+
 ## event
 
 **event** 系统，遵循condition-action操作，达成condition就会触发action。
