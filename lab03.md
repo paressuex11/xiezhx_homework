@@ -25,8 +25,8 @@ At first, yes, it can be difficult. But it gets easier. And Shaw offers plenty o
 The professor always tells us to learn by coding.After thousands of times of practice, everything that blocks you may fade out themselves.The hard way is in fact quite simple but it's not really easy.For some people, they may think it a big task. But for other codeman,they will look it as a toy.They are really enjoying coding.
 
     Nothing important comes without discipline, practice, and persistence. But, with Learn Python the Hard Way, readers who bring those qualities to programming will master it-and they will reap the rewards, both personally and in their careers.
-                                                                                                            
- `                                                                                                           I think it real.`
+                                    
+                                             
 
 **********
 
