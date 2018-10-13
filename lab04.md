@@ -20,9 +20,18 @@ RGB系统是使用三原色(Red, Green, Blue)为底色，按比例调制成其�
 >Morse code is a method of transmitting text information as a series of on-off tones, lights, or clicks that can be directly understood by a skilled listener or observer without special equipment.<br>
 >By wikipedia
 
+摩尔斯电码是一种时通时断的信号代码，通过不同的排列顺序来表达不同的英文字母、数字和标点符号。摩尔斯电码是一种早期的数字化通信形式，但是它不同于现代只使用零和一两种状态的二进制代码，它的代码包括五种： 点、划、点和划之间的停顿、每个词之间中等的停顿以及句子之间长的停顿。
+
+在电报机时代有着极为广泛的应用。
+
 ## Braille
 >Braille (/breɪl/; French: [bʁaj]) is a tactile writing system used by people who are visually impaired. It is traditionally written with embossed paper. Braille users can read computer screens and other electronic supports using refreshable braille displays. They can write braille with the original slate and stylus or type it on a braille writer, such as a portable braille notetaker or computer that prints with a braille embosser.<br>
 >By wikipedia
+
+盲文或称点字、凸字，是专为盲人设计、靠触觉感知的文字。透过点字板、点字机、点字打印机等在纸张上制作出不同组合的凸点而组成，一般每一个方块的点字是由六点组成，左侧从上到下为123，右侧为456，叫一方。
+
+布莱叶年幼时失明，且深受当时的落后盲文系统的苦，但机缘巧合之下发明了更先进的盲文系统，为更多失明人士带来了福音。
+
 
 ## ASCII
 
