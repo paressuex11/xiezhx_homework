@@ -13,7 +13,8 @@ RGB系统是使用三原色(Red, Green, Blue)为底色，按比例调制成其�
 
     ·color depth(用多少bits存RGB数据)
             1. HiColor  -> 16-bit color depth RGB分别用5bits存
-            2. TrueColor -> 24-bit color depth
+            2. TrueColor -> 24-bit color depth(RGB24)
+            当前典型的显示适配器为每个像素使用多达24位的信息：每个组件8位乘以三个组件,允许使用16,777,216（256 3或2 24）个R，G和B值的离散组合。(一些格式如.png和.tga文件等使用第四灰度色通道作为屏蔽层，通常称为RGB32)
 
 # 编码科普
 
