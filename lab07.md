@@ -27,7 +27,7 @@ Not much, just love it.
 
 ![](images/princess.png)
 
-![](images/result.gi)
+![](images/regif.gif)
 
 ## CRC
 ```
