@@ -23,9 +23,9 @@ Not much, just love it.
 ## Result
 ![](images/background.png)
 
-![](images/archwizard.png)
+![](images/archwizard.PNG)
 
-![](images/princess.png)
+![](images/princess.PNG)
 
 ![](images/regif.gif)
 
