@@ -5,6 +5,7 @@
 
 <a name = "#hypermath">
 <h2>1. 用python解决高数问题 </h2></a>
+
 <a name = "#linear">
     <h2>
     2. 用Python解决线代问题
@@ -12,7 +13,7 @@
 </a>
 
 
-<img src = 'images/lim.png'  width = 300 height = 200/>
+<img src = 'images/lim.png'  width = 300 height = 200> </img>
 
 
 
