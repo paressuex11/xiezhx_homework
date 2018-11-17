@@ -33,3 +33,8 @@
 `再比如`求逆矩阵
 
 ![](images/inverse.png)
+
+## 实验小结：
+本次实验整体来说结果算是成功, 虽然其间不少有磕磕碰碰。 不得不说，sympy 是一个对新手及其友好的库，而且函数封装的很好，命名也很用心。使用 sympy 库可以极其高效地完成如求积分，求导，级数展开，矩阵运算等等
+
+![一个 sympy tutorial](http://www.asmeurer.com/sympy_doc/dev-py3k/tutorial/tutorial.zh.html)
