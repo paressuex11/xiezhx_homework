@@ -9,7 +9,9 @@
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=\lim_{x\to\pi/2}&space;(tan&space;x)^{2x-\pi}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\lim_{x\to\pi/2}&space;(tan&space;x)^{2x-\pi}" title="\lim_{x\to\pi/2} (tan x)^{2x-\pi}" /></a>
 
+![](images/lim.png)
 
+`再比如`，求不定积分
 
 
 
