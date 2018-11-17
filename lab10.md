@@ -3,22 +3,13 @@
 <h2 align = "right">学号：18342106 </h2>
 <h2 align = 'right'>姓名：谢正雄</h2>
 
-<a name = "#hypermath">
-<h2>1. 用python解决高数问题 </h2></a>
+## 1. 用python解决高数问题
 
-<a name = "#linear">
-    <h2>
-    2. 用Python解决线代问题
-    </h2>
-</a>
+`For example`，求极限
 
-
-<img src = 'images/lim.png'  width = 300 height = 200> </img>
+<a href="https://www.codecogs.com/eqnedit.php?latex=\lim_{x\to\pi/2}&space;(tan&space;x)^{2x-\pi}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\lim_{x\to\pi/2}&space;(tan&space;x)^{2x-\pi}" title="\lim_{x\to\pi/2} (tan x)^{2x-\pi}" /></a>
 
 
 
-![](http://latex.codecogs.com/gif.latex?\\frac{1}{1+sin(x)})
 
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 
-$$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$$
