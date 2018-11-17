@@ -13,5 +13,9 @@
 
 `再比如`，求不定积分
 
+<a href="https://www.codecogs.com/eqnedit.php?latex=\int&space;\frac{sin(x)&plus;cos(x)}{2xin(x)-3cos(x)}dx" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\int&space;\frac{sin(x)&plus;cos(x)}{2xin(x)-3cos(x)}dx" title="\int \frac{sin(x)+cos(x)}{2xin(x)-3cos(x)}dx" /></a>
+
+![](images/inte.png)
+
 
 
