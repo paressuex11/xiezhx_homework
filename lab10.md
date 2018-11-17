@@ -35,10 +35,26 @@
 ![](images/inverse.png)
 
 ## 实验小结：
-本次实验整体来说结果算是成功, 虽然其间不少有磕磕碰碰。 不得不说，sympy 是一个对新手及其友好的库，而且函数封装的很好，命名也很用心。使用 sympy 库可以极其高效地完成如求积分，求导，级数展开，矩阵运算等等，相比之下，c 就...
+本次实验整体来说结果算是成功, 虽然其间不少有磕磕碰碰。 不得不说，sympy 是一个对新手及其友好的库，而且函数封装的很好，命名也很用心。
+作为第一次接触符号运算的小白，在阅读 tutorial 的时候压力(除了英语单词)不算大。使用 sympy 库可以极其高效地完成如求积分，求导，级数展开，矩阵运算等等，而且还支持误差函数等，功能丰富，五脏俱全。相比之下，c 就...
+
+<pre>
+一些函数:
+symbols   --->符号设置函数，当然也可以从 sympy.abc 引入一些符号
+limit()   ---> 求极限
+integrate()  --->求积分，不定积分，定积分均可
+diff()          --->求导
+matrix.det()  --->求行列式方法
+matrix.inverse_GE()   --->高斯算法求逆矩阵方法
+matrix.inverse_LU()   --->LU分解求逆矩阵方法
+func.series()    --->泰勒展开式方法
+pprint()         --->美观打印，其实并不怎么美观就是了
+
+</pre>
 
 <a href=http://www.asmeurer.com/sympy_doc/dev-py3k/tutorial/tutorial.zh.html> 
 一个 sympy tutorial</a>
+
 
 >人生苦短，我用 Python。
 
