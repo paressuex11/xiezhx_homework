@@ -53,7 +53,7 @@ pprint()         --->美观打印，其实并不怎么美观就是了
 </pre>
 
 <a href= "http://www.asmeurer.com/sympy_doc/dev-py3k/tutorial/tutorial.zh.html" > 
-一个 sympy tutorial</a>
+推荐一个 sympy tutorial</a>
 
 
 >人生苦短，我用 Python。
