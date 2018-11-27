@@ -59,3 +59,4 @@ void insert_sort(int* data, int size){
 ![](images/iisort.png)
 
 # 可以发现上述三种算法在这种情况下耗时差不多
+
