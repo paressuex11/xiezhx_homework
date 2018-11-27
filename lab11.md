@@ -38,6 +38,8 @@ VR最大的强项是给人沉浸式的感官体验，而往往就是这种能给
 <p align = "right"> ---引自<a href = "http://www.vrrb.cn/guandian/5259.html">VR日报：虚拟现实存在很大的伦理风险</a></p>
 </blockquote>
 
+![](images/vr1.jpg)
+
 3. 隐私和数据问题
 
 <blockquote>
