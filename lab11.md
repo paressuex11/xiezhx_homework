@@ -1,9 +1,3 @@
-<blockquote>
-Here is a long quotation here is a long quotation here is a long quotation 
-here is a long quotation here is a long quotation here is a long quotation 
-here is a long quotation here is a long quotation here is a long quotation.<br/>
-</blockquote>
-<br/>
-<blockquote cite="http://www.wwf.org">
-WWF's ultimate goal is to build a future where people live in harmony with nature.
-</blockquote>
+# 虚拟现实技术的伦理风险
+
+<a href="http://www.cssn.cn/zx/201607/t20160729_3140339_1.shtml">ll </a>
