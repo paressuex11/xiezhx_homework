@@ -38,3 +38,24 @@ void bubble_sort(int *data, int size){
 ![](images/bsort.png)
 
 ![](images/bbsort.png)
+
+# 插入排序
+```c
+void insert_sort(int* data, int size){
+    int j;
+    for(int i = 1; i < size ; ++ i){
+        for (j = 0 ; j < i && data[j] > data[i] ; ++ j);
+        int temp = data[i];
+        for (int k = i ; k > j ; -- k){
+                data[k] = data[k - 1];
+        }
+        data[j] = temp;
+    }
+}
+```
+
+![](images/isort.png)
+
+![](images/iisort.png)
+
+# 可以发现上述三种算法在这种情况下耗时差不多
