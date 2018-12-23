@@ -63,7 +63,7 @@ B2B、B2C、C2C、O2O模式
 
 # 特定网络服务
 
-冲会员，VPS等
+充会员，VPS等
 
 ![](images/digitalocean.jpg)
 
