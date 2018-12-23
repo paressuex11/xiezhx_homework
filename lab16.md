@@ -28,12 +28,21 @@
 
 ## 公众号广告
 
+![](images/wechat.jpg)
 
+# 网络游戏
 
+![](images/tanwanlanyue.jpg)
 
+![](images/wzryjpg.jpg)
 
+![](images/fgo.jpg)
 
+网络游戏吸引人的虽然看游戏的可玩度，但ip流量带来的效益却是不可忽视，playful blue moon这款游戏的可玩性实在不敢恭维，但依然不影响它的大火，主要原因就是它**受人喜爱**的宣传片，流量功不可没。
 
+第三款游戏的成功除了剧情本身优秀以外，和月厨的爱是分不开的。
+
+# 电子商务
 
 
 
