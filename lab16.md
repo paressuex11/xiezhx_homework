@@ -30,29 +30,52 @@
 
 ![](images/wechat.jpg)
 
-# 网络游戏
+# 网络游戏 ： 氪，氪，氪
 ***
+
+![](images/mahuateng.jpg)
+
 ![](images/tanwanlanyue.jpg)
 
 ![](images/wzryjpg.jpg)
 
 ![](images/fgo.jpg)
 
-网络游戏吸引人的虽然看游戏的可玩度，但ip流量带来的效益却是不可忽视，playful blue moon这款游戏的可玩性实在不敢恭维，但依然不影响它的大火，主要原因就是它**受人喜爱**的宣传片，流量功不可没。
-
-第三款游戏的成功除了剧情本身优秀以外，和月厨的爱是分不开的。
+网络游戏吸引人的虽然看游戏的可玩度，但ip流量带来的效益却是不可忽视，playful blue moon这款游戏的可玩性实在不敢恭维，但依然不影响它的大火，主要原因就是它**受人喜爱**的宣传片，流量功不可没。其他两款游戏除了高度的可玩性外，和宣传和ip是离不开的
 
 # 电子商务
 ----------
+
+
 
 ![](images/taobao.jpg)
 ![](images/tmall.jpg)
 ![](images/jd.jpg)
 
+以上就是中国电商三巨头，当然曾经的并夕夕也火了一段时间，但仅拥有流量但没有实质内容是不行的，之后就因为商品质量不高凉凉
+
 ![](images/amazon.jpg)
 ![](images/ebay.png)
 
+B2B、B2C、C2C、O2O模式
 
+平台可以通过收取佣金来盈利，流量越大的平台往往会有更高的信誉
+
+# 特定网络服务
+
+冲会员，VPS等
+
+![](images/digitalocean.jpg)
+
+![](images/vultr.jpg)
+
+![](images/linode.png)
+
+![](images/youku.jpg)
+
+![](images/qqjpg.jpg)
+
+越知名的网络平台往往可以拉拢更多的客户
 
 
 
