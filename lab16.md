@@ -31,7 +31,7 @@
 ![](images/wechat.jpg)
 
 # 网络游戏
-
+***
 ![](images/tanwanlanyue.jpg)
 
 ![](images/wzryjpg.jpg)
@@ -43,6 +43,7 @@
 第三款游戏的成功除了剧情本身优秀以外，和月厨的爱是分不开的。
 
 # 电子商务
+----------
 
 ![](images/taobao.jpg)
 ![](images/tmall.jpg)
