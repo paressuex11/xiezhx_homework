@@ -7,6 +7,8 @@
 <p align = 'right'><i>https://baike.baidu.com/item/%E5%A4%A7%E6%95%B0%E6%8D%AE/1356941?fr=aladdin</i></p>
 </blockquote>
 
+![](images/bigdata.jpg)
+
 ## AI
 <blockquote>
 <b>人工智能</b>（Artificial Intelligence），英文缩写为AI。它是研究、开发用于模拟、延伸和扩展人的智能的理论、方法、技术及应用系统的一门新的技术科学。<br/>
@@ -15,6 +17,8 @@
 <p align = 'right'><i>https://baike.baidu.com/item/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/9180?fr=aladdin</i></p>
 </blockquote>
 
+![](images/ai.jpg)
+
 ## 区块链
 <blockquote>
 <b>区块链</b>是分布式数据存储、点对点传输、共识机制、加密算法等计算机技术的新型应用模式。<br/>
@@ -22,16 +26,26 @@
 <p align = 'right'><i>https://baike.baidu.com/item/%E5%8C%BA%E5%9D%97%E9%93%BE/13465666?fr=aladdin</i></p>
 </blockquote>
 
+![](images/bq.jpg)
+
 # 互联网营销方法
 ## 搜索引擎营销
 竞价排名、分类目录、搜索引擎登录、付费搜索引擎广告、关键词广告、搜索引擎优化(搜索引擎自然排名)、地址栏搜索、网站链接策略灯等
+
+![](images/ads.jpg)
+
 ## 博客营销
 付费博客，广告等
+
+![](images/bads.jpg)
+
 ## 网络软文营销
 稿费，广告等
 
 ## 病毒式营销
-最近很火的锦鲤抽奖就是类似的营销手段
+最近很火的**锦鲤**抽奖就是类似的营销手段
+
+![](images/ycy.png)
 
 <b><font size="4" >还有许多的营销手段，但都大同小异，要明白本质的仍是，流量流量流量</font></b>
 
@@ -39,6 +53,18 @@
 <pre>
 1. 智放营销：十五种常用的互联网营销方法https://www.sohu.com/a/226699842_124310
 2. 常用的互联网营销方法https://jingyan.baidu.com/article/cd4c2979357f21756e6e6084.html
-
-
 </pre>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<font size="0" >祝期末考好...</font>
