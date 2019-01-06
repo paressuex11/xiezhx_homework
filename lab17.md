@@ -7,7 +7,7 @@
 <p align =  'right'><i>https://baike.baidu.com/item/%E5%A4%A7%E6%95%B0%E6%8D%AE/1356941?fr=aladdin</i></p>
 </blockquote>
 
-![](images/bigdata.jpg)
+![](images/bigdata.jpg) 
 
 ## AI
 <blockquote>
