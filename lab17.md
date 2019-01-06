@@ -4,7 +4,7 @@
 
 <blockquote>
 <b>大数据</b>（big data），指无法在一定时间范围内用常规软件工具进行捕捉、管理和处理的数据集合，是需要新处理模式才能具有更强的决策力、洞察发现力和流程优化能力的海量、高增长率和多样化的信息资产。
-<p align = 'right'><i>https://baike.baidu.com/item/%E5%A4%A7%E6%95%B0%E6%8D%AE/1356941?fr=aladdin</i></p>
+<p align =  'right'><i>https://baike.baidu.com/item/%E5%A4%A7%E6%95%B0%E6%8D%AE/1356941?fr=aladdin</i></p>
 </blockquote>
 
 ![](images/bigdata.jpg)
